@@ -4,4 +4,4 @@
 
 ### Run_Dynamic_Robot is the file that is dynamic, and will run with camera's calibration settings.
 
-### To make changes to it, first make changes in mess_with_this_file, and then copy it to Run_Dynamic_Robot file
+  * Aruco.py is the file that will identify Aruco markrers and use function from Camera_Calibration.py file to predict the relative position
