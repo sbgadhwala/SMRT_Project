@@ -9,3 +9,6 @@
   * current_pos.txt is the file in which robot's predicted relative X and Y coordinates are saved (Z-coordinate remians unaffected since there is no relative change in height)
 
 (Refer to Steps to Run Robot.odt file for step by step execution of the whole process using ROS)
+
+
+### Dim2_To_Dim1 is the file that involves picking up hangers from a different conveyor (thats in a different orientation) and dopping off on the 1st conveyor
