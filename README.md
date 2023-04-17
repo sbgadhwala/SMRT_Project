@@ -11,4 +11,4 @@
 (Refer to Steps to Run Robot.odt file for step by step execution of the whole process using ROS)
 
 
-### Dim2_To_Dim1 is the file that involves picking up hangers from a different conveyor (thats in a different orientation) and dopping off on the 1st conveyor
+### Screw_Ini is the file that involves picking up hangers from the screw conveyor and dopping off on the 1st conveyor
